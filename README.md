@@ -24,3 +24,8 @@ Ascon-MAC Metrics:
 - Execution Time: 0.000265 seconds
 - MAC Size: 16 bytes
 MAC (Hex): 1d92b35fd0e560e9f2cf181275ea80ec
+
+## Comparison Table of Ascon-Family
+![image](https://github.com/user-attachments/assets/dce64a49-d85e-41b9-a744-b02fc0211401)
+
+
