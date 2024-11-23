@@ -14,6 +14,13 @@ Ascon-128a Metrics:
 Ciphertext (Hex): 421b45f0dfd4d5c719087d0e0935e8f934740c05ec01e08a3193597d700f305efeb82a5d6a08813718ddcd0600d71bdc
 
 ## Output of Ascon-Hash
-
+Ascon-Hash Metrics:
+- Execution Time: 0.000345 seconds
+- Digest Size: 32 bytes
+Digest (Hex): 905b7dfb83ad9d445642c17d9eb2e2d6ebf9dc6f9e46a7848891113936ea681c
 
 ## Output of Ascon-MAC
+Ascon-MAC Metrics:
+- Execution Time: 0.000265 seconds
+- MAC Size: 16 bytes
+MAC (Hex): 1d92b35fd0e560e9f2cf181275ea80ec
