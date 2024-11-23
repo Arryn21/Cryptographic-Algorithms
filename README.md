@@ -1,4 +1,4 @@
-# Cryptographic-Alogorithms
+# Cryptographic-Algorithms
 Lightweight Cryptographic Algorithm - Ascon 
 
 ## Output of Ascon-128
